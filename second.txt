@@ -1,1 +1,4 @@
 This is second text file for testing 
+
+Add a new quote 
+[The past is over ]
